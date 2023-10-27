@@ -16,9 +16,8 @@ step 5: After that print the calculated volume.
  
  
  ## Program:
- Name: G.TEJASWINI
- 
- Reg no: 212222230157
+ Name: Gunaseelan G
+ Reg no: 212221230031
 
  ```python
 using System;
@@ -63,8 +62,8 @@ namespace ConsoleApp8
 ```
  
  # Output:
- 
- ![Screenshot (39)](https://github.com/TejaswiniGugananthan/Operator-Overloading/assets/121222763/e9325897-d327-4eaa-ae3b-f2eece3af6f7)
+ ![ex6](https://github.com/Guru-Guna/Operator-Overloading/assets/93427255/5049a703-9e20-46b1-a1dc-163062ad0a48)
+
 
  ## Result:
  Thus the C# program to find the volume of a box using operator overloading is implemented successfully.
